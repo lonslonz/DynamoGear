@@ -1,6 +1,6 @@
 Dynamo-Gear
 ---
-Controll DynamoDB's capacity (tps). It's very useful for saving money.
+Control DynamoDB's capacity (tps). It's very useful for saving money.
 
 # Features
 
