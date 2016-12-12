@@ -7,6 +7,7 @@ Controll DynamoDB's capacity (tps). It's very useful for saving money.
 * Change DynamoDB's write tps from schedule.
 * Save and read schedule from MySQL
 * Implemented by Scala
+* Save working history into MySQL 
 
 # Install    
 
@@ -114,3 +115,8 @@ Parameters :
 * table : DynamoDB's table name that you want to change tps.
 * local : true if you install local DynamoDB and use it.
 
+### Monitor work
+
+You can see the results through DYNAMO_GEAR_HIS
+
+![monitor his](https://github.com/lonslonz/DynamoGear/blob/master/images/monitor.jpg)
